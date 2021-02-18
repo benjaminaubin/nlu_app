@@ -1,0 +1,8 @@
+flask_restplus
+flask
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+sklearn_crfsuite

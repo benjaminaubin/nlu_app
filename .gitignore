@@ -1,0 +1,8 @@
+service/nlu/data/
+service/nlu/__pycache__/
+service/__pycache__/
+service/main.py
+
+web/node_modules/
+
+app/node_modules/

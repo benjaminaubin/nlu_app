@@ -1,12 +1,10 @@
 # A simple webservice and mobile app for Natural Language Understanding
 
 - [App iOS/Android](app/README.md)
+- [Web app](web/README.md)
 - [Flask server](service/README.md)
 
-  - Intent classification
-  - Tag segmentation
-
-  trained on the Snips Voice Platform dataset:
+  Intent classification trained on the Snips Voice Platform dataset:
 
   > @article{coucke2018snips,
   > title = {Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces},
