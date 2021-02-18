@@ -46,7 +46,7 @@ export const NLU: FunctionComponent = () => {
     <div className="NLU">
       <input className="input" onChange={handleChange} placeholder={placeholder} name="input" />
       <button className="button" onClick={handlePredict}>
-        Analyze
+        Submit
       </button>
       <h1 className="field">Input</h1>
       {show_input(input)}

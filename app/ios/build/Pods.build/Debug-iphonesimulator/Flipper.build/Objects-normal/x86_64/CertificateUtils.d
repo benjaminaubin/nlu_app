@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.cpp \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Target\ Support\ Files/Flipper/Flipper-prefix.pch \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pem.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/e_os2.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslconf.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslconf-x86_64.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/bio.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/crypto.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/stack.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/safestack.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslv.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ossl_typ.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/symhacks.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/evp.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/objects.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/obj_mac.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/asn1.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/bn.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/x509.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/buffer.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ec.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ecdsa.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ecdh.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/rsa.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/dsa.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/dh.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/sha.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/x509_vfy.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/lhash.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pkcs7.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pem2.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/Fcntl.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/SysStat.h

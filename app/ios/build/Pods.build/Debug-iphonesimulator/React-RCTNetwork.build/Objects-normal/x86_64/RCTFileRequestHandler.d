@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.mm \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Target\ Support\ Files/React-RCTNetwork/React-RCTNetwork-prefix.pch \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTFileRequestHandler.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-callinvoker/ReactCommon/CallInvoker.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModuleUtils.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Folly/folly/Optional.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Folly/folly/Portability.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Folly/folly/CPortability.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Folly/folly/Traits.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Folly/folly/Utility.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/ios/Pods/Headers/Public/ReactCommon/ReactCommon/LongLivedObject.h \
+  /Users/benjaminaubin/Workspace/Projects/nlu_app/app/node_modules/react-native/Libraries/Network/RCTNetworkPlugins.h
